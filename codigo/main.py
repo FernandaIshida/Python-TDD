@@ -1,4 +1,4 @@
-from codigo.bitebank import Funcionario
+from codigo.bytebank import Funcionario
 
 
 def teste_idade():
